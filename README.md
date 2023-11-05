@@ -3,7 +3,7 @@
      width="200px"
      height="auto"/>
 </p>
-# <h1 align="center" id="heading"> Stock Price Prediction using Prophet
+ <h1 align="center" id="heading"> Stock Price Prediction using Prophet
 </h1>
 
 
